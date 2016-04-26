@@ -1,2 +1,5 @@
 # hello-world
-This is a test repository
+
+Hi Everyone,
+
+I am exploring Github to learn more about coding. I am interested in Java, and JavaScript.
